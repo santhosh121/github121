@@ -1,6 +1,3 @@
-how about this one you need to merge this
-<<<<<<< HEAD
+how about this one you need to merge th
 we are there
-=======
 some more changes
->>>>>>> 809ee2e (Update new_file.txt)
